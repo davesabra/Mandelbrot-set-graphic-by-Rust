@@ -1,4 +1,4 @@
-// Jim Blandy, Mandelbrot, single thread. (not working yet)
+// Jim Blandy, Mandelbrot, single thread.
 #![allow(dead_code, unused_variables)]
 
 use std::str::FromStr;
